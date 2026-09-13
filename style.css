@@ -58,12 +58,12 @@ section {
 }
 
 section div {
-  width: 250px;
-  min-height: 250px;
+  width: 200px;
+  min-height: 200px;
   background-color: #ffffff;
   border: 1px solid #d9e6dd;
   border-radius: 14px;
-  padding: 20px;
+  padding: 10px;
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
