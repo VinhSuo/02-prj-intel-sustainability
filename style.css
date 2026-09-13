@@ -58,13 +58,12 @@ section {
 }
 
 section div {
-  width: 200px;
-  min-height: 200px;
+  width: 220px;
+  min-height: 220px;
   background-color: #ffffff;
   border: 1px solid #d9e6dd;
   border-radius: 14px;
-  padding: 10px;
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+  padding: 10px;  box-sizing: border-box;  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
@@ -110,6 +109,8 @@ body > p {
 
   section div {
     width: min(100%, 420px);
+    min-height: auto;
+    box-sizing: border-box;
   }
 
   header {
