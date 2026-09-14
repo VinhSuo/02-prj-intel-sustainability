@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="380" viewBox="0 0 640 380">
+  <rect width="640" height="380" fill="#edf6ee"/>
+  <rect x="0" y="0" width="640" height="380" fill="#0b4f63" opacity="0.95"/>
+  <circle cx="90" cy="110" r="80" fill="#9bbf7b" opacity="0.8"/>
+  <circle cx="520" cy="250" r="100" fill="#d8ece3" opacity="0.8"/>
+  <path d="M120 250 C180 160, 260 140, 310 190 C340 190, 355 220, 360 250" fill="none" stroke="#dff8df" stroke-width="3"/>
+  <path d="M160 250 C200 200, 230 190, 270 210 C300 210, 330 235, 360 250" fill="none" stroke="#77b88d" stroke-width="4"/>
+  <g fill="#ffffff">
+    <text x="40" y="70" font-family="Arial, sans-serif" font-weight="bold" font-size="34">Net-Zero</text>
+    <text x="40" y="105" font-family="Arial, sans-serif" font-size="26">By 2040</text>
+  </g>
+  <g fill="#eef9ef">
+    <text x="40" y="330" font-family="Arial, sans-serif" font-size="24">Intel Sustainability</text>
+  </g>
+</svg>
